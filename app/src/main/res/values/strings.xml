@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyArtSpace</string>
+    <string name="button_prev">Previous</string>
+    <string name="button_next">Next</string>
+    <string name="show_description">Show description?</string>
+    <string name="art_info_template">%s (%s)</string>
+    <string name="art_3_title">Perseverance</string>
+    <string name="art_3_content_description">Cartoon image of a lemon tree</string>
+    <string name="art_3_description">Despite the hardships of weather and maintaining sustenance to feed its fruit and leaves, the tree remains standing throughout time and seasons to survive.</string>
+    <string name="art_2_title">Opportunity</string>
+    <string name="art_2_content_description">Cartoon image of a cup of lemonade</string>
+    <string name="art_2_description">\"When life gives you lemons…\" symbolizes one of the most fundamental aspect to life: seeing opportunity in seemingly harsh, impassable, and sour situations.</string>
+    <string name="art_1_title">運命</string>
+    <string name="art_1_content_description">Cartoon die with the 3 side faced up</string>
+    <string name="art_1_description">The number "3" and the die represent the never-ending process of equilibrium. 3 is the number of balance, symbolizing the nothing, everything, and something in between. The die represent the natural chaos and order of the universe: when something seemingly random occurs, but sets a general path of what is to follow.</string>
+    <string name="art_creator">Adon Anglon</string>
+    <string name="art_date">Unknown</string>
+</resources>
